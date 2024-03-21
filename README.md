@@ -23,7 +23,7 @@ Para ejecutar el codigo simplemente utiliza el siguiente comando en tu terminal:
 node Apple_DOS.js
 ```
 
-![Ejecucion](https://github.com/OliverCasuso/terminal-linux-apple-dos/commit/7a3a156a5620f650c16c78a940484b2fd8ab63f8)
+![Ejecucion]([https://github.com/OliverCasuso/terminal-linux-apple-dos/commit/7a3a156a5620f650c16c78a940484b2fd8ab63f8](https://github.com/OliverCasuso/terminal-linux-apple-dos/blob/main/codigo_original/Captura%20desde%202024-03-21%2020-17-16.png))
 
 Para detener la ejecución, pulsa Ctrl + C en tu terminal.
 
