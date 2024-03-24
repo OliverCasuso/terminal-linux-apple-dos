@@ -1,14 +1,14 @@
 # Apple DOS Printer
 
-Este proyecto en JavaScript imprime por la consola de Linux el código fuente del primer sistema operativo de Apple, el Apple DOS.
+Este proyecto en JavaScript imprime por la consola el código fuente del primer sistema operativo de Apple, el Apple DOS.
 
 ## Acerca de Apple DOS
 
-En 1978 APPLE COMPUTER INC creó su primer sistema operativo (de disco) para la serie de microordenadores de la serie Apple II, fue escrito por Steve Wozniak, Randy Wigginton y el proveedor informático externo Paul Laughton.
+En 1978 APPLE COMPUTER INC creó su primer sistema operativo (de disco) para la serie Apple II, fue escrito por Steve Wozniak, Randy Wigginton y el proveedor informático externo Paul Laughton.
 
 ## Origen del Proyecto
 
-Este proyecto surge a partir del descubrimiento del código fuente del sistema operativo Apple DOS hace varios años. Inspirado por esta antigua joya de la informática, decidí crear esta pequeña herramienta para imprimir su código en la consola de Linux.
+Este proyecto surge a partir del descubrimiento del código fuente del sistema operativo Apple DOS hace varios años. Inspirado por esta antigua joya de la informática, decidí crear esta pequeña herramienta para imprimir su código por consola.
 En la carpeta codigo_original he dejado el código fuente que me encontre (Apple_DOS_6Oct1978_retyped.docx).
 
 ## Instrucciones de instalación
